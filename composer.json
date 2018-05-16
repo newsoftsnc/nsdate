@@ -1,0 +1,20 @@
+{
+	"name": "newsoftsnc/nsdate",
+	"description": "Funzioni gestione date",
+	"keywords": ["yii2", "date"],
+	"type": "package",
+	"license": "GPL-3.0-or-later",
+	"authors": [{
+	        "name": "Newsoft s.n.c.", 
+		"email": "info@newsoftonline.it",
+		"homepage": "http://www.newsoftonline.it"
+	}],
+	"autoload": {
+       	 	"psr-4": {
+	            "NsDate\\" : "NsDate/"
+       		}
+	},
+	"version": "1.0.0",
+	"minimum-stability": "dev"
+}
+
