@@ -11,7 +11,7 @@
 	}],
 	"autoload": {
        	 	"psr-4": {
-	            "NsDate\\" : "NsDate/"
+	            "newsoftsnc\\nsdate\\" : "src/"
        		}
 	},
 	"version": "1.0.0",

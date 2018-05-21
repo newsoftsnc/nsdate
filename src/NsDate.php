@@ -1,6 +1,6 @@
 <?php
 
-namespace NsDate;
+namespace newsoftsnc/nsdate;
 
 // Trasformazione date dal formato Mysql in formato Italiano e viceversa
 class NsDate {
